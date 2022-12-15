@@ -2,3 +2,6 @@ this is the file created on day 2 of the training.
 this ia a dummy line.
 this is a new line.
 this is for understanding merge conflict
+
+this is a change made at the server side
+
